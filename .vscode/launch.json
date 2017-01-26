@@ -23,7 +23,7 @@
       "args": [],
       "cwd": "${workspaceRoot}/dist/dev/",
       // next line is very important
-      "runtimeExecutable": "${env.APPDATA}/npm/node_modules/electron-prebuilt/dist/electron.exe",
+      "runtimeExecutable": "${env.APPDATA}/npm/node_modules/electron/dist/electron.exe",
       "runtimeArgs": [],
       "env": { },
       "sourceMaps": true
